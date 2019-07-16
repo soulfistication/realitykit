@@ -1,11 +1,3 @@
-//
-//  ViewController.swift
-//  DLReality
-//
-//  Created by Ivan on 7/15/19.
-//  Copyright © 2019 Ivan. All rights reserved.
-//
-
 import UIKit
 import RealityKit
 
